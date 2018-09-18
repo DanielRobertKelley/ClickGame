@@ -1,0 +1,34 @@
+nav {
+  font-size: 3rem;
+  color:black;
+  margin-bottom: 50px;
+  background-color: darkgrey;
+
+}
+title {
+  text-align:center;
+}
+
+a {
+  color:black;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.cur-sco {
+  padding: 26px 0;
+  width: 25%;
+  float:right;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+  float:right;
+  list-style:none;
+  font-family: 'Courier New', Courier, monospace;
+}
